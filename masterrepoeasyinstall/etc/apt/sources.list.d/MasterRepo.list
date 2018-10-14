@@ -36,6 +36,7 @@ deb https://ib-soft.net/cydia/ ./
 deb http://insanj.com/repo/ ./
 deb https://j-gessner.de/repo/ ./
 deb https://justgetflux.com/cydia/ ./
+deb https://jarxy.github.io/ ./
 deb https://leftyfl1p.github.io/ ./
 deb http://limneos.net/repo/ ./
 deb https://noeliel.com/repo/ ./
